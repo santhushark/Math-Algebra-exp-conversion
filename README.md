@@ -1,4 +1,3 @@
-# JYL
 
 Mathematical expression conversion from:-
 
@@ -7,4 +6,3 @@ Mathematical expression conversion from:-
 => infix to prefix
 
 => prefix to postfix
-
