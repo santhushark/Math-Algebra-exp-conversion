@@ -1,7 +1,8 @@
-# JYL
 
+Mathematical expression conversion from:-
 
+=> infix to postfix
 
+=> infix to prefix
 
-
-HTML, CSS, SASS, JAVASCRIPT assignments
+=> prefix to postfix
